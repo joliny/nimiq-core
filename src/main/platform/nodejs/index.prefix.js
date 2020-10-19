@@ -18,5 +18,5 @@ global.Class = {
     }
 };
 
-const NodeNative = require('bindings')('nimiq_node.node');
+const NodeNative = require('bindings')('ak_node.node');
 
