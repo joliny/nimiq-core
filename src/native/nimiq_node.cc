@@ -346,4 +346,4 @@ NAN_MODULE_INIT(Init) {
         GetFunction(New<FunctionTemplate>(node_ed25519_delinearized_partial_sign)).ToLocalChecked());
 }
 
-NODE_MODULE(nimiq_node, Init)
+NODE_MODULE(ak_node, Init)
