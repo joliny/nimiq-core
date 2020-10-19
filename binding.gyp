@@ -1,7 +1,7 @@
 {
     "targets": [
         {
-            "target_name": "nimiq_node",
+            "target_name": "ak_node",
             "sources": [
                 "src/native/argon2.c",
                 "src/native/blake2/blake2b.c",
