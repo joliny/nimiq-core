@@ -39,7 +39,7 @@
     "src/native"
   ],
   "node_deb": {
-    "package_name": "nimiq",
+    "package_name": "ak",
     "version": "1.5.6-1",
     "init": "systemd",
     "architecture": "none",
@@ -48,7 +48,7 @@
     "maintainer": "The Nimiq Core Development Team <info@nimiq.com>",
     "extra_files": "fakeroot",
     "templates": {
-      "executable": "nimiq",
+      "executable": "ak",
       "default_variables": "default",
       "postinst": "postinst",
       "postrm": "postrm",
